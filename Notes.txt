@@ -1,0 +1,4 @@
+Utiliza auth0 
+Credenciales para ingresar : User: testaagustin8@gmail.com
+                             Password: Admin123
+Ejecutar con "npm start" debido a que la app tiene un propio proxy-config
